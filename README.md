@@ -1,4 +1,3 @@
-[![Codemagic build status](https://api.codemagic.io/apps/5cd0f574c95918000ce25e99/5cd0f574c95918000ce25e98/status_badge.svg)](https://codemagic.io/apps/5cd0f574c95918000ce25e99/5cd0f574c95918000ce25e98/latest_build)
 
 # flutter_piano
 
@@ -207,7 +206,3 @@ const BorderRadiusGeometry borderRadius = BorderRadius.only(
 
  ```
  ### Total Dart Code Size: 5039 bytes
- 
- ## Special Thanks
- - @DFreds
- - @jesusrp98
